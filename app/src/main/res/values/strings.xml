@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">DummyShop</string>
+    <!-- Product addition -->
+    <string name="addItemTextview">Put an item on sale!</string>
+    <string name="productNameFieldHint">Item name?</string>
+    <string name="productDescriptionFieldHint">Describe item!</string>
+    <string name="productPriceFieldHint">Item price?</string>
+    <string name="imageBtnDescription">Add images</string>
+    <string name="publishItemBtn">Publish</string>
+    <string name="empty_image_error">Please add some images of the product.</string>
+
+    <!--Store import -->
+    <string name="product_deletion">Deleted :)</string>
+
+    <!-- Add product -->
+    <string name="image_formatting_toast">Images are being formatted! :)</string>
+    <string name="product_visibility_toast">Happy Selling! :)</string>
+    <string name="picture_limit">You can pick up to 8 pictures.</string>
 </resources>
